@@ -1,0 +1,8 @@
+CreaPro 2016: Interactive Wearable Diptych by Michelle Vossen
+
+For this challenge I wanted to combine my love for fashion with Arduino and Processing. During one of the lectures it was mentioned there is an Arduino that you can sew into clothing, the Arduino Lilypad. This immediately caught my attention, so I ordered one online, together with some LEDs, sensors and conductive thread. I started drawing and thinking of how I could combine the two programs with a piece of clothing, without making everything feel like separate pieces. I believe too often technology and clothing are merged in a very unnatural way, as if the technology is just added for the sake of adding it. In those cases, the technology does not add any value at all and I really dislike that.
+ 
+Because of my annoyance by this lack of meaning, I have made a diptych that links both a digital artwork and a wearable one. Both artworks can be looked at individually, but when they are connected they actually make sense and complement each other. The print on the dress is the left side of the artwork, and the Processing one is the right side. When linked, the LEDs on the dress light up. When you press 1, 2, 3 or 4 in Processing, you can focus on a group of LEDs behind one of the colors of the print. To add another layer in between the artworks, I installed an app on my phone which allows me to control the keyboard and trackpad of my laptop. This way I can stand next to my laptop and control my dress without any extra effort.
+
+Link to the video:
+https://youtu.be/ZmlU4fxcEwU 
